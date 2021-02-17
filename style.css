@@ -1,0 +1,60 @@
+body {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	background-image: url(texture2.jpg);
+	background-size: cover;
+	color: black;
+}
+
+h1 {
+	font-size: 80px;
+	font-family: 'Merriweather', serif;
+	padding-top: 60px;
+	text-shadow: 2px 2px 2px gray;
+	margin-bottom: 15px;
+	line-height: 100px;
+}
+
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 18px;
+    font-family: 'Merriweather', serif;
+}
+
+ul {
+	font-size: 20px;
+	font-family: 'Merriweather', serif;
+}
+
+
+.subtitle {
+	font-size: 60px;
+	font-family: 'Merriweather', serif;
+	text-shadow: 2px 2px 2px gray;
+}
+
+.icons li {
+	display: inline;
+	letter-spacing: 5px;
+	list-style: none;
+    padding-left: 0;
+    margin-top: 200px;
+}
+
+.icons a {
+	color: black;
+	font-size: 30px;
+}
+
+.icons a:hover {
+	color:grey;
+}
+
+
+
+
