@@ -1,10 +1,8 @@
 body {
 	text-align: center;
 	font-family: 'Merriweather', serif;
-	background-image: url(texture2.jpg);
+	background-image: url(texture2.jpg) no-repeat center center fixed;
 	background-size: cover;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
 	color: black;
 }
 
